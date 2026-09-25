@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://AMINODa.github.io/rakeru69/sitemap.xml
